@@ -24,7 +24,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></div>  <a href
 " target="_blank"><img src="http://img.youtube.com/vi/4rHKE5rHZXM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  <a href="http://www.youtube.com/watch?feature=player_embedded&v=cbn-LC9r5sg
 " target="_blank"><img src="http://img.youtube.com/vi/cbn-LC9r5sg/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  <a href="http://www.youtube.com/watch?feature=player_embedded&v=MytvhB5L-Bs
-" target="_blank"><img src="http://img.youtube.com/vi/MytvhB5L-Bs/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
