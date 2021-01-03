@@ -17,7 +17,7 @@ I'm Monzim from Bangladesh, and I do content on Animation and Devolopment. I rea
 
 ## STATISTICS ![Profile views](https://gpvc.arturio.dev/monzim) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monzim&layout=compact)](https://github.com/monzim)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=monzim)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=monzim)](https://github.com/monzim)
 
 # Youtube🎥
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yLWa0GYikEo
