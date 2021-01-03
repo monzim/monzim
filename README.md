@@ -6,12 +6,11 @@ I'm Monzim from Bangladesh, and I do content on Animation and Devolopment. I rea
 ## Skills and Experience
 * ☕ Java
 * 🎯 Dart
-## 
+## SOCIAL INFORMATION
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java Script. 
 - 💬 Ask me about my works. 
 - 📫 How to reach me: Twitter and Instagram. 
-
 
 [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/monzim)  [<img src='https://www.flaticon.com/svg/static/icons/svg/733/733579.svg' alt='twitter' height='40'>](https://twitter.com/monzim)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14726120/azraf-al-monzim)  [<img src='https://www.flaticon.com/svg/static/icons/svg/889/889144.svg' alt='website' height='40'>](https://monzim.tumblr.com/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg' alt='instagram' height='40'>](https://www.instagram.com/azraf_al_monzim/)  
 
