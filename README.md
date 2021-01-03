@@ -1,12 +1,14 @@
 # Azraf Al Monzim
 I'm Monzim from Bangladesh, and I do content on Animation and Devolopment. I really enjoy learning languages and frameworks like Java, Dart and React Native. I also enjoy making animation and music.
 
+<a href="https://www.google.com/"> google </a>
+
 ## Skills and Experience 👀
 * ☕ Java
 * 🎯 Dart
 * 📱 Flutter
 ## SOCIAL INFORMATION 🙈
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my app. 
 - 🌱 I’m currently learning Java Script. 
 - 💬 Ask me about my works. 
 - 📫 How to reach me: Twitter and Instagram. 
