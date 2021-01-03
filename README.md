@@ -30,8 +30,3 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  <a href="
 " target="_blank"><img src="http://img.youtube.com/vi/MytvhB5L-Bs/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
-sdd
-
-
-
