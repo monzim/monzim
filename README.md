@@ -20,7 +20,6 @@ Skills: / JAVA / DART
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/monzim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/monzim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14726120/azraf-al-monzim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://monzim.tumblr.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/azraf_al_monzim/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monzim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=monzim&show_icons=true&theme=buefy)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=monzim)  
 
 ![GitHub metrics](https://metrics.lecoq.io/monzim)  
