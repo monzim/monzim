@@ -1,9 +1,9 @@
-# Azraf Al Monzim
+# Azraf Al Monzim 🤿
 ![Animator and Developer](https://pbs.twimg.com/profile_banners/1240859610723958785/1584679454/1500x500)
 
 I'm Monzim from Bangladesh, and I do content on Animation and Devolopment. I really enjoy learning languages and frameworks like Java, Dart and React Native. I also enjoy making animation and music.
 
-## Skills and Experience 🤿
+## Skills and Experience 👀
 * ☕ Java
 * 🎯 Dart
 * 📱 Flutter
