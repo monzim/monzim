@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Monzim from Bangladesh, and I do content on Animation and Devolopment. I really 
+I'm Monzim from Bangladesh 🇧🇩, and I do content on Animation and Devolopment. I really 
 I really enjoy learning languages and frameworks like Java, Dart and React Native. I also enjoy making animation and music.
 
-### Hi there 👋, I'm Monzim
-#### Animator and Developer
 ![Animator and Developer](https://pbs.twimg.com/profile_banners/1240859610723958785/1584679454/1500x500)
 
 I really enjoy learning languages and frameworks like Java, Dart and React Native. I also enjoy making animation and music.
