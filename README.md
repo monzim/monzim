@@ -5,5 +5,3 @@ I really enjoy learning languages and frameworks like Java, Dart and React Nativ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monzim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=monzim&show_icons=true&theme=vision-friendly-dark)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monzim)](https://github.com/anuraghazra/github-readme-stats)
