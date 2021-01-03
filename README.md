@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Monzim from Bangladesh 🇧🇩, and I do content on Animation and Devolopment. I really 
+I'm Monzim from Bangladesh, and I do content on Animation and Devolopment. I really 
 I really enjoy learning languages and frameworks like Java, Dart and React Native. I also enjoy making animation and music.
 
 ![Animator and Developer](https://pbs.twimg.com/profile_banners/1240859610723958785/1584679454/1500x500)
@@ -19,8 +19,6 @@ Skills: / JAVA / DART
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monzim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=monzim)  
-
-![GitHub metrics](https://metrics.lecoq.io/monzim)  
 ![Profile views](https://gpvc.arturio.dev/monzim)  
 
 
