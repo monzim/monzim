@@ -15,7 +15,7 @@ Skills: / JAVA / DART
 - 📫 How to reach me: Twitter and Instagram. 
 
 
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/monzim)  [<img src='https://www.flaticon.com/svg/static/icons/svg/733/733579.svg' alt='twitter' height='40'>](https://twitter.com/monzim)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14726120/azraf-al-monzim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://monzim.tumblr.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/azraf_al_monzim/)  
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/monzim)  [<img src='https://www.flaticon.com/svg/static/icons/svg/733/733579.svg' alt='twitter' height='40'>](https://twitter.com/monzim)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14726120/azraf-al-monzim)  [<img src='https://www.flaticon.com/svg/static/icons/svg/889/889144.svg' alt='website' height='40'>](https://monzim.tumblr.com/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg' alt='instagram' height='40'>](https://www.instagram.com/azraf_al_monzim/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monzim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=monzim)  
