@@ -7,7 +7,9 @@ I really enjoy learning languages and frameworks like Java, Dart and React Nativ
 
 I really enjoy learning languages and frameworks like Java, Dart and React Native. I also enjoy making animation and music.
 
-Skills: / JAVA / DART
+## Skills and Experience
+* ☕ Java
+* 🎯 Dart
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java Script. 
