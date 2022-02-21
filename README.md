@@ -46,5 +46,14 @@ src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif"></b></h5>
 <a href="https://fb.com/Azraf.Monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="monzim" height="30" width="40" /></a>
 <a href="https://instagram.com/_monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_monzim" height="30" width="40" /></a>
 <a href="https://hashnode.com/@monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@monzim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monzim" height="30" width="40" /></a>
-</p>
+<a href="https://www.youtube.com/c/monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monzim" height="30" width="40" /></a></p>
+<br>
+<h2></h2>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monzim&layout=compact&$disable_animations=true&border_radius=5&border_color=000000$disable_animations=true&show_icons=true&theme=github_dark)](https://monzim.web.app)
+![Monzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=monzim&include_all_commits=true&count_private=true&show_icons=false&line_height=20&$disable_animations=true&border_radius=5&border_color=000000$disable_animations=true&show_icons=true&theme=github_dark)
+</div>
+
+  
+[![Monzim Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=monzim&custom_title=Monzim%20Trips's%20Contribution%20Graph&theme=react-dark&color=C2D0D8&hide_border=false&line=4C8EDA&point=F7F7F7)](https://monzim.web.app)
