@@ -7,7 +7,6 @@ src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif"></b></h5>
 
 <h5 align="center"> Hey! I'm Monzim, a student currently living in Dhaka, Bangladesh.</h5>
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
@@ -28,3 +27,6 @@ src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif"></b></h5>
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
 </div>
 <br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
