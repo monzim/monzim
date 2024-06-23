@@ -1,45 +1,40 @@
-<h3 align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+# Azraf Al Monzim - Backend Engineer
 
-</h3>
+👋 Hey there! I'm Monzim, a passionate backend engineer who loves building scalable and efficient systems that power amazing user experiences.
 
-<h1 align="center">Hey 👋, I'm Monzim</h1>
-
-<h3 align="center">A passionate developer from Bangladesh</h3>
-
-<div align="center">
-<a  href="https://wakatime.com/@4de035b5-4b65-4ee4-8510-086ef8f867ce"> <img src="https://wakatime.com/badge/user/4de035b5-4b65-4ee4-8510-086ef8f867ce.svg" alt="monzim" /> </a>
-
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=monzim&label=Profile%20views&color=0e75b6&style=flat" alt="monzim" />
 </div>
-<h3 align="center">Dedicated developer with proficiency in development, testing, and debugging. Quick learner, committed to assisting others, and excelling in scalable system design with cost-effective resource utilization.</h3>
 
-- 🔭 I’m currently working on **Arovibe & [Unizim](https://monzim.com/unizim)**
+## 💼 Skills
 
-- 👨‍💻 All of my projects are available at [monzim.com/project](https://monzim.com/projects)
+<div align="left">
+<a  href="https://wakatime.com/@4de035b5-4b65-4ee4-8510-086ef8f867ce"> <img src="https://wakatime.com/badge/user/4de035b5-4b65-4ee4-8510-086ef8f867ce.svg" alt="monzim" /> </a>
+</div>
 
-- 📝 I regularly write articles on [monzim.com/blog](https://monzim.com/blog)
+- **Languages**: Go, TypeScript, Dart, Java, Bash, Lua, C
+- **Frameworks**: Gin, Fasthttp, Fiber, Express.js, NestJS, Hono.js, Serverless, AWS SAM, Azure Functions, Flutter
+- **Cloud Services**: AWS, Azure, Firebase, Appwrite, Supabase, Cloudflare Worker
+- **Databases**: Postgres, MongoDB, CockroachDB, Cassandra, Redis, DynamoDB, Firestore, RabbitMQ, Kafka
+- **Tools**: Docker, Kubernetes, Terraform, Ansible, Git, CI/CD pipelines, Linux, REST APIs, Microservices
 
-- 💬 Ask me about **serverless, microservices, cloud, and scalable system design**
+## 🚀 About Me
 
-- 📫 How to reach me **contract@monzim.com**
+I specialize in crafting robust backend solutions using Go, TypeScript, and cloud-native technologies like AWS and Azure. I'm all about architecting serverless and microservices architectures that deliver top-notch performance and reliability. I thrive in creating high-performance systems and leveraging cloud technologies to solve complex problems.
 
-- 📄 Know about my experiences [monzim.com/resume](https://monzim.com/resume)
+- 🔭 Currently working at [SoftNursery](https://softnursery.com)
+- 🌱 Always learning and exploring new technologies
+- 🏆 Top 8 team in Nationwide Hackathon at IUT ICT Fest 2024
+- 🎓 Pursuing a Bachelor's in Computer Science at [United International University](https://uiu.ac.bd)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monzim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monzim" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="monzim" height="30" width="40" /></a>
-<a href="https://fb.com/azraf.monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azraf.monzim" height="30" width="40" /></a>
-<a href="https://instagram.com/_monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_monzim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/monzim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monzim" height="30" width="40" /></a>
-</p>
+## 📫 Let's Connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
- 
- 
-### ✍️ Random Dev Quote
+- [Website](https://monzim.com)
+- [LinkedIn](https://www.linkedin.com/in/monzim/)
+- [GitHub](https://github.com/monzim)
+- [YouTube](https://youtube.com/monzim)
+- [Facebook](https://www.facebook.com/Azraf.Monzim)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+
+Thanks for stopping by! Feel free to explore my projects or reach out for collaboration. Let's build something amazing together!
