@@ -22,7 +22,7 @@
 
 I specialize in crafting robust backend solutions using Go, TypeScript, and cloud-native technologies like AWS and Azure. I'm all about architecting serverless and microservices architectures that deliver top-notch performance and reliability. I thrive in creating high-performance systems and leveraging cloud technologies to solve complex problems.
 
-- 🔭 Currently working at [SoftNursery](https://softnursery.com)
+- 🔭 Currently working at [Edusoft](https://www.edusoftconsultants.com)
 - 🌱 Always learning and exploring new technologies
 - 🏆 Top 8 team in Nationwide Hackathon at IUT ICT Fest 2024
 - 🎓 Pursuing a Bachelor's in Computer Science at [United International University](https://uiu.ac.bd)
