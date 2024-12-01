@@ -1,6 +1,6 @@
-# Azraf Al Monzim - Backend Engineer
+# Azraf Al Monzim - Platform Engineer
 
-👋 Hey there! I'm Monzim, a passionate backend engineer who loves building scalable and efficient systems that power amazing user experiences.
+👋 Hey there! I'm Monzim, As a Platform Engineer, I specialize in designing and maintaining scalable, efficient infrastructure for modern applications. With a strong background in backend and mobile app development, I excel in creating robust platforms using cloud solutions like AWS and Azure. My expertise spans microservices architecture, database management, and automation, enabling me to build high-performance, reliable systems that drive innovation and growth.
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=monzim&label=Profile%20views&color=0e75b6&style=flat" alt="monzim" />
