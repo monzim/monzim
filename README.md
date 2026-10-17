@@ -1,72 +1,30 @@
-<div align="left">
-  <h1>AZRAF AL MONZIM</h1>
-  <h3>Platform Engineer | Cloud Architect | Backend Specialist</h3>
+# Azraf Al Monzim
 
-   <p>
-      <img src="https://komarev.com/ghpvc/?username=monzim&label=Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  </p>
-</div>
+**Platform Engineer · Distributed Systems & AI Infrastructure**
 
-## Professional Summary
+*Sub superficie.* Beneath the surface.
 
-Results-driven Platform Engineer with 3+ years architecting high-availability distributed systems and cloud-native infrastructure.  
-Expertise in **Go**, **TypeScript**, **microservices**, **serverless**, and **AWS/Azure** — delivering production platforms handling **100K+ concurrent users** with sub-100ms latency, 99.95%+ uptime, and significant cost/performance gains.
+I'm a platform engineer based in Dhaka, Bangladesh. I build distributed systems, cloud infrastructure, and tools for developers. I care about the work behind the screen: concurrency, correctness, failure modes, and systems that keep running when demand arrives.
 
-Currently:
+At **Edusoft Consultants**, I build and operate university registration infrastructure. I also lead backend engineering for **Atlas** and I'm building **Buyziz**.
 
-- **Platform Engineer** at Edusoft Consultants Ltd — Designing scalable education platforms
-- **Research Assistant** at Institute for Advanced Research (IAR), UIU — Distributed systems & AI integration
-- **Founder & Lead Engineer** of Spendo AI — AI financial intelligence platform (🥇 IC6 UIHP 2025 Champion | 60K BDT pre-seed)
+### Selected work
 
-## Tech Stack
+**[UCAM Cloud](https://monzim.com/work/ucam-cloud)** · Platform Engineer  
+Designed and built UIU's independent course-registration platform, integrated with its existing university system. Shipped the first version in three months (January 2025). Registration went from a five-to-six-hour ordeal to under a minute for most students.
 
-<div align="left">
-<p>
-      <a  href="https://wakatime.com/@4de035b5-4b65-4ee4-8510-086ef8f867ce"> <img src="https://wakatime.com/badge/user/4de035b5-4b65-4ee4-8510-086ef8f867ce.svg" alt="monzim" /> </a>
-    </p>
-</div>
+**[Atlas](https://www.tryatlas.cc/)** · Backend Lead  
+Building the cloud behind source control for coding agents: local-first session sync, multi-tenant authorization, and realtime collaboration. The desktop app is [open source](https://github.com/pacifio/atlas); collaborative Shared Threads are still in development.
 
-| Domain                    | Technologies                                                                                                |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Languages**             | Go, TypeScript, JavaScript, Python, SQL, Bash                                                               |
-| **Frameworks & APIs**     | Gin, Fiber, NestJS, Hono, Express, gRPC, REST, WebSockets                                                   |
-| **Cloud & Serverless**    | AWS (Lambda, ECS, DynamoDB, RDS, S3, CloudFront, SQS/SNS, API Gateway), Azure Functions, Cloudflare Workers |
-| **DevOps & Infra**        | Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD, Linux                                        |
-| **Databases & Messaging** | PostgreSQL, DynamoDB, MongoDB, Redis, CockroachDB, RabbitMQ, Kafka                                          |
-| **Security & Patterns**   | OAuth 2.0, JWT, RBAC, Event-Driven, Microservices, Distributed Caching                                      |
-| **AI & Emerging**         | LangChain, OpenAI API, RAG, Crew AI                                                                         |
+**[Buyziz](https://buyziz.com/)** · Founder & Engineer  
+Building a commerce platform for merchants selling through storefronts and social channels. Designing its Cloudflare-native, multi-tenant infrastructure with isolated merchant data. *Early access.*
 
-## Key Achievements & Projects
+### Writing
 
-- **Spendo AI** (Founder) — Multi-tenant AI financial co-pilot with budgeting, insights & optimization  
-  🏆 IC6 UIHP 2025 Champion | 60K BDT pre-seed funding  
-  [spendo.monzim.com](https://spendo.monzim.com)
+- [Advising day: when a whole semester picks its seats](https://monzim.com/blog/advising-day-at-scale-summer26)
+- [Distributed rate limiting with Cloudflare Durable Objects](https://monzim.com/blog/distributed-rate-limiting-cloudflare-durable-objects)
+- [How Claude Code persists knowledge between sessions](https://monzim.com/blog/claude-code-memory-system-explained)
 
-- **Enterprise Course Registration Platform** (Edusoft) — High-scale system for 100K+ concurrent users  
-  Redis caching → 60% DB load reduction, <100ms responses; WebSockets for 50K+ live connections; 40% cost savings via serverless; 99.95% uptime  
-  Tech: Go, AWS Lambda/DynamoDB, PostgreSQL, Redis
+I work mostly with **Go, TypeScript, AWS, Cloudflare, DynamoDB, PostgreSQL, and Redis**.
 
-- **DumpStation** (Open Source) — Self-hosted PostgreSQL backup solution with multi-cloud (S3/R2/MinIO), cron automation, Discord alerts, React dashboard  
-  [GitHub](https://github.com/monzim/dumpstation) • [dumpstation.monzim.com](https://dumpstation.monzim.com)
-
-- **BD Quake Monitor** — Real-time Bangladesh earthquake tracker with USGS integration & AI-enhanced alerts  
-  [monzim.com/projects](https://monzim.com/projects)
-
-- **BreatheFree** — Personal smoking/vape reduction tracker with analytics & AI coaching  
-  Tech: React, TypeScript, Elysia
-
-More projects → [monzim.com/projects](https://monzim.com/projects)
-
-## Education
-
-B.Sc. Computer Science & Engineering  
-United International University, Dhaka (Ongoing)
-
-## Contact
-
-- 🌐 [monzim.com](https://monzim.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/monzim)
-- 📧 hello@monzim.com
-- 📍 Dhaka, Bangladesh
-
-Open to senior platform engineering roles, high-impact cloud/backend challenges, or collaborations on scalable & AI-integrated systems.
+[Portfolio](https://monzim.com/) · [Resume](https://monzim.com/resume) · [All writing](https://monzim.com/blog) · [LinkedIn](https://www.linkedin.com/in/monzim/) · [Email](mailto:hello@monzim.com)
